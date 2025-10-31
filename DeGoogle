@@ -1,0 +1,220 @@
+---
+layout: page
+title: "How to DeGoogle"
+permalink: /
+description: "List of Ways People Can DeGoogle"
+---
+
+
+
+# Resources
+
+## Videos
+- [LTT DeGoogle Your Life Part 1](https://youtu.be/YnSv8ylLfPw) 
+- [LTT DeGoogle Your Life Part 2 (Reupload)](https://youtu.be/YaMc64IAC8g)
+- [PewDiePie's DeGoogle Video](https://youtu.be/u_Lxkt50xOg)
+- [The Ultimate Degoogle Tutorial - The CheapAss Edition](https://youtu.be/XOcfMVXmkfM)
+- [No! THIS is a DeGoogled phone!](https://youtu.be/nnLSWBBQSEU)
+- [Complete Privacy Setup for $0, $5, or $13/Month (You Choose)](https://youtu.be/hQkKdXZiVj4) 
+
+## Resources
+- [Privacy Guides](https://www.privacyguides.org/)
+- r/degoogle Wiki
+- Techlore
+- Switching.software
+- [Privacy Tools](https://www.privacytools.io/)
+- Alternativeto.net
+-----
+
+# Browsers
+
+## Desktop
+- Arc Browser
+- DeGoogled Chromium
+- Mullvad
+- LibreWolf
+- FireFox
+- ZenBrowser
+- IronFox
+- WaterFox
+- Vivaldi
+- Iridium Browser
+- qutebrowser
+- Pale Moon
+- GNU Ice Cat
+- Floorp
+- Tor
+- [GNOME Web](https://wiki.gnome.org/Apps/Web)
+
+## Mobile
+- Bromite
+- Arc Browser
+- Tor
+- Vanadium (GraphineOS Exclusive)
+- Mull
+
+# App Stores
+- Aurora Store
+- F-Droid
+- Accrescent
+- Obtanium
+
+# Maps
+- Apple Maps
+- Open Street Map
+- Magic Earth
+- OsmAnd
+- MapQuest
+- Organic Maps
+- CoMaps
+- [Maps.me](https://maps.me/)
+
+# YouTube
+
+- FreeTube
+- LibreTube
+- GrayJay
+- NewPipe
+- Invidious
+- MediaGoblin
+- PeerTube
+- FloatPlane
+- [Streamable](https://streamable.com/)
+- [Vimeo](https://vimeo.com/)
+
+
+# Phones
+- Murena
+- FairPhone
+- ShiftPhone
+- /e/
+- UP Phone
+
+# AdBlockers
+- uBlock Origin
+- uBlock Origin Lite
+- Malwarebytes Browser Guard
+- AdGuard AdBlocker
+- Pi-Hole
+
+# Operating Systems
+
+## Desktop
+- Linux Mint
+- Ubuntu
+- PopOS
+- 
+  
+
+## Mobile
+
+### Android Based
+- Paranoid Android
+- Replicant
+- LineageOS
+- PixelOS
+- /e/ OS
+- GraphineOS
+- CalyxOS
+- iode OS
+- ShiftOS/ShiftOS-L
+- Voltage OS
+
+### Linux Based
+- Sailfish OS
+- PureOS
+- PostMarketOS
+- Ubuntu Touch
+- Manjaro ARM
+
+# Google Search
+- StartPage
+- SearXNG
+  -Trusted Instances:
+    -
+- DuckDuckGo
+- Mojeek
+- Qwant
+- Brave Search
+- Ecosia
+- Kagi
+- MetaGear
+- SwissCows
+- Whoogle
+- Mullvad Leta
+- YaCy (must install app)
+- 
+
+# Office Suit
+- CryptPad
+- LibreOffice
+- OpenStax
+- Murena Workspace
+- dSheets
+- dDocs
+- OnlyOffice
+- Obsidian
+- 
+
+# DNS
+- How to change DNS via browser
+- How to change DNS via operating system
+- How to change DNS via router
+- Cloudflare 1.1.1.1
+- Mullvad DNS
+- ControlD
+- NextDNS
+- Quad9
+- AdGuard DNS
+
+# Gmail
+- Proton Mail
+- Tuta Mail
+- FastMail
+- Hushmail
+- HEY
+- Mailbox
+- Posteo
+- [Mailfence](https://mailfence.com/)
+
+# Google Drive
+
+## Self Hosting
+- ownCloud
+- NextCloud
+
+## Not Self Hosting
+- Proton Drive
+- tresorit
+- [Cryptee](https://crypt.ee/)
+
+## Authenticator
+- Ente Auth
+- Authy
+- Aegis Auth (Android Only)
+
+## Password Manager
+- Bitwarden
+- KeePassXC
+- 1Password
+- Proton Pass
+
+# Photo Backup
+
+## Self-Hosting
+- ownCloud
+- immich
+- NextCloud
+- PhotoPrism
+- Stingle
+
+## Not Self-Hosting
+- ente Photos
+- Stingle
+- Proton Photos
+- [Cryptee](https://crypt.ee/)
+
+# Google Forms
+- [Forms.id](https://www.forms.id/)
+- [Tellform](https://github.com/tellform/tellform)
+- [Docassemble](https://docassemble.org/)
